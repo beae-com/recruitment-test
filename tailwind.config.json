@@ -1,0 +1,27 @@
+{
+    "primary": {
+        "50": "#edf4ff",
+        "100": "#dae9ff",
+        "200": "#b5d2ff",
+        "300": "#7cb0ff",
+        "400": "#458fff",
+        "500": "#3478df",
+        "600": "#2c6ecb",
+        "700": "#235dae",
+        "800": "#1e5096",
+        "900": "#163f77"
+    },
+    "form": {
+        "active": "#111827",
+        "title": "#111827",
+        "border": "#BABFC3",
+        "input": "#111827",
+        "desc": "#374151",
+        "bg": "#f3f4f6",
+        "bg-hover": "#e8eaec",
+        "bg-active": "#6b7280",
+        "secondary": "#6B7280",
+        "secondary-hover": "#374151",
+        "placeholder": "#6B7280"
+    }
+}
